@@ -2,7 +2,7 @@ System.out.println("Hello, I'm Su-hwan Kim");
 
 System.out.println("I’m interested in reading and writing and drawing");
 
-System.out.println("I’m currently learning Spring Framework. It's so hard for me...");
+System.out.println("I’m currently learning about Java and Spring Framework.");
 
 
 <!---
